@@ -14,7 +14,10 @@ To write a Python program to check whether the string `"google"` is a **palindro
 ## 🧾 Program
 
 Add code here
+<img width="1920" height="1080" alt="Screenshot 2026-03-19 084336" src="https://github.com/user-attachments/assets/18452610-63f7-4958-a25a-a8e48fb16791" />
 
 ## Output
+<img width="1920" height="1080" alt="Screenshot 2026-03-19 084336" src="https://github.com/user-attachments/assets/abb089db-8cd9-4308-9d52-c2ee0f29e2d1" />
 
 ## Result
+Thus the program was successfully executed.and obtained the result
