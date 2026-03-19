@@ -15,6 +15,10 @@ To write a Python program that filters out and returns all elements from a list 
 
 ## 🧾 Program
 Add code here
+<img width="1920" height="1080" alt="Screenshot 2026-03-19 083809" src="https://github.com/user-attachments/assets/428c6aa5-b19f-41d3-9a4a-5213e28851bf" />
+
 ## Output
+<img width="1920" height="1080" alt="Screenshot 2026-03-19 083809" src="https://github.com/user-attachments/assets/ad386911-ac39-4285-85f5-1e556ee9dba1" />
 
 ## Result
+Thus the program was successfully executed.and obtained the result
